@@ -1,0 +1,2 @@
+# basiclogic
+C language tricks
